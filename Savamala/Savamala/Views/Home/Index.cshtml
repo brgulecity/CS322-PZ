@@ -1,0 +1,52 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+<h2>Dobrodosli</h2>
+    
+    <div style="float: right;">
+        @{
+            if (Session["user"] != null)
+            {
+                <p>Ulogovani ste kao Administrator</p>
+            }
+        }
+    </div>
+    
+   
+    
+
+
+<div id="pageLinks">
+    <ul>
+        <li>@Html.ActionLink("Cafe1", "Cafe1", "Home", null, null)</li>
+    </ul>
+    @{
+        if (Session["user"] != null)
+        {
+            <button type="button" id="logout" value="logout">Izloguj se</button>
+        }
+        
+    }
+    
+    <script type="text/javascript">
+
+        $("#logout").click(function () {
+
+            $.post("@Url.Action("Logout", "Home")",
+                {
+                    logout: $("#logout").val(),
+                    page: "Logout"
+                })
+            location.reload();
+        });
+
+
+
+
+    </script>
+
+</div>
+
+

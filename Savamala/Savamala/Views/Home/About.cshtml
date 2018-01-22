@@ -1,0 +1,39 @@
+﻿@{
+    ViewBag.Title = "Prikaz Rezervacija";
+}
+
+
+<h2>@ViewBag.Title.</h2>
+
+<div style="float: right;">
+    @{
+        if (Session["user"] != null)
+        {
+            <p>Ulogovani ste kao Administrator</p>
+        }
+    }
+</div>
+
+
+@Html.Raw(@ViewData["korisnici"])
+
+<h3>Brisanje Rezervacija</h3>
+<p>Unesite ID rezervacije za brisanje</p>
+<br/>
+<input type="text" id="id"/>
+<br/>
+<button id="brisanje">Obrisi</button>
+
+<script type="text/javascript">
+
+    $("#brisanje").click(function () {
+        $.post("@Url.Action("Delete", "Home")",
+            {
+                id: $("#id").val(),
+                page: "Delete"
+            })
+        location.reload();
+    });
+
+</script>
+

@@ -1,0 +1,43 @@
+﻿@{
+    ViewBag.Title = "Login";
+}
+
+
+<h2>@ViewBag.Title.</h2>
+
+<div style="float: right;">
+    @{
+        if (Session["user"] != null)
+        {
+            <p>Ulogovani ste kao Administrator</p>
+        }
+    }
+</div>
+
+<div>
+    <label>Korisnicko Ime:</label>
+    <br/>
+    <input type="text" id="user"/>
+    <br/>
+    <label>Lozinka</label>
+    <br/>
+    <input type="password" id="pass" />
+    <br/>
+    <br />
+    <button id="login">Uloguj se</button>
+    
+    
+    <script type="text/javascript">
+
+        $("#login").click(function () {
+            $.post("@Url.Action("Login", "Home")",
+                {
+                    user: $("#user").val(),
+                    pass: $("#pass").val(),
+                    page: "Login"
+                })
+            
+        });
+
+    </script>
+</div>

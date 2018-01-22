@@ -1,0 +1,164 @@
+﻿
+@{
+    ViewBag.Title = "Cafe1";
+}
+
+<h2>Cafe 1</h2>
+
+<div class="container">
+    <form action="" class="form-horizontal" role="form">
+        <div class="form-group">
+            <label for="dtp_input2" class="col-md-2 control-label">Izaberite datum:</label>
+            <div class="input-group date form_date col-md-5" data-date="" data-date-format="dd MM yyyy" data-link-field="dtp_input2" data-link-format="yyyy-mm-dd">
+                <input class="form-control" size="16" type="text" value="" readonly>
+                <span class="input-group-addon"><span class="glyphicon glyphicon-remove"></span></span>
+                <span class="input-group-addon"><span class="glyphicon glyphicon-calendar"></span></span>
+                <span class="input-group-addon"><button type="button" id="btnRefrash" class="btn btn-primary">Pretrazi</button></span>
+                
+            </div>
+            <input type="hidden" id="dtp_input2" value="" /><br />
+        </div>
+    </form>
+    
+</div>
+
+
+
+
+<br />
+
+<div id="imageDiv">
+    <img src="/Images/final-front.jpg" width="100%" height="600"
+         class="reel"
+         id="image"
+         data-image="/Images/final.jpg"
+         data-stitched="5433"
+         data-orientable="true" />
+    
+</div>
+
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 id="reservationTitle" class="modal-title">Rezervisite sto broj: </h4>
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <label for="usr">Ime:</label>
+                    <input type="text" class="form-control" id="txtIme">
+                </div>
+                <div class="form-group">
+                    <label for="pwd">Kontatkt telefon:</label>
+                    <input type="text" class="form-control" id="txtTelefon">
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button id="btnReserve" type="button" class="btn btn-primary" data-dismiss="modal">Rezervisi</button>
+                <button type="button" class="btn btn-default" data-dismiss="modal">Zatvori</button>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+
+<!-- Modal -->
+<div class="modal fade" id="successModal" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 id="reservationTitle" class="modal-title">Uspesno ste rezervisali </h4>
+            </div>
+            <div class="modal-footer">
+                <button id="btnClose" type="button" class="btn btn-default" data-dismiss="modal">Zatvori</button>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<script type="text/javascript">
+
+    $('.form_date').datetimepicker({
+        language: 'rs',
+        weekStart: 1,
+        todayBtn: 1,
+        autoclose: 1,
+        todayHighlight: 1,
+        startView: 2,
+        minView: 2,
+        forceParse: 0
+    });
+
+    $("#btnReserve").click(function () {
+        $.post("@Url.Action("Reserve", "Home")",
+            {
+                datum: $("#dtp_input2").val(),
+                ime: $("#txtIme").val(),
+                telefon: $("#txtTelefon").val(),
+                brStola: activeTable,
+                page: "Cafe1"
+            },
+            function(){
+                $('#successModal').modal('show');
+            });
+    });
+
+    $('#btnClose').click(function() {
+        location.reload();
+    });
+
+    addMarker("table1", 250, 150);
+    addMarker("table2", 630, 220);
+    addMarker("table3", 1250, 240);
+    addMarker("table4", 1750, 190);
+    addMarker("table5", 2000, 150);
+    addMarker("table6", 2350, 150);
+    addMarker("table7", 2600, 280);
+    addMarker("table8", 2660, 150);
+    addMarker("table9", 3200, 130);
+    addMarker("table10", 3380, 200);
+    addMarker("table11", 3300, 90);
+    addMarker("table12", 3500, 90);
+    addMarker("table13", 3620, 110);
+    addMarker("table14", 3800, 60);
+    addMarker("table15", 3920, 185);
+    addMarker("table16", 4550, 245);
+    addMarker("table17", 5000, 150);
+    addMarker("table18", 5220, 100);
+    addMarker("table19", 5460, 100);
+    addMarker("table20", 5300, 300);
+
+    $(function() {
+        $.post("@Url.Action("ListReservations", "Home")",
+                {
+                    kafic: "Cafe1",
+                    datum: $("#dtp_input2").val(),
+                    
+                })
+            .done(function( data ) {
+                $(data).each(function(index, value) {
+                    $("#table" + value).remove();
+                });
+            });
+    });
+
+    $("#btnRefrash").click(function () {
+
+       
+        location.reload();
+    });
+
+</script>
+
+

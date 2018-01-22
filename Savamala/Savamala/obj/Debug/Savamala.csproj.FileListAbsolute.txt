@@ -1,0 +1,449 @@
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\ApplicationInsights.config
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\csc.exe
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\csc.exe.config
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\csc.rsp
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\csi.exe
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\csi.exe.config
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\csi.rsp
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\System.AppContext.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\System.Collections.Immutable.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\System.Console.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\System.IO.Compression.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\System.IO.FileSystem.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\System.IO.Pipes.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\System.Security.AccessControl.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\System.Security.Claims.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\System.Threading.Thread.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\System.ValueTuple.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\System.Xml.XPath.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\vbc.exe
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\vbc.exe.config
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\vbc.rsp
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\VBCSCompiler.exe
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\roslyn\VBCSCompiler.exe.config
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\Savamala.dll.config
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\Savamala.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\Savamala.pdb
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\Antlr3.Runtime.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\Microsoft.AI.Web.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\Microsoft.AI.WindowsServer.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\Microsoft.ApplicationInsights.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\Microsoft.Web.Infrastructure.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\Newtonsoft.Json.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\System.Web.Helpers.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\System.Web.Mvc.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\System.Web.Optimization.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\System.Web.Razor.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\System.Web.WebPages.Deployment.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\System.Web.WebPages.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\System.Web.WebPages.Razor.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\WebGrease.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\Antlr3.Runtime.pdb
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\Microsoft.AI.Web.xml
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\Microsoft.AI.WindowsServer.xml
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\Microsoft.ApplicationInsights.xml
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\Newtonsoft.Json.xml
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\System.Web.Helpers.xml
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\System.Web.Mvc.xml
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\System.Web.Optimization.xml
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\System.Web.Razor.xml
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\System.Web.WebPages.xml
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\System.Web.WebPages.Deployment.xml
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\bin\System.Web.WebPages.Razor.xml
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\obj\Debug\Savamala.csprojResolveAssemblyReference.cache
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\obj\Debug\Savamala.dll
+c:\users\lesoto\documents\visual studio 2017\Projects\Savamala\Savamala\obj\Debug\Savamala.pdb
+C:\Users\milic\Desktop\Savamala\Savamala\bin\ApplicationInsights.config
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\csc.exe
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\csc.exe.config
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\csc.rsp
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\csi.exe
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\csi.exe.config
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\csi.rsp
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\System.AppContext.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\System.Console.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\System.IO.Compression.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\System.IO.Pipes.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\System.Security.Claims.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\System.Threading.Thread.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\System.ValueTuple.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\System.Xml.XPath.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\vbc.exe
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\vbc.exe.config
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\vbc.rsp
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\VBCSCompiler.exe
+C:\Users\milic\Desktop\Savamala\Savamala\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\milic\Desktop\Savamala\Savamala\bin\Savamala.dll.config
+C:\Users\milic\Desktop\Savamala\Savamala\bin\Savamala.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\Savamala.pdb
+C:\Users\milic\Desktop\Savamala\Savamala\bin\Antlr3.Runtime.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\Microsoft.AI.Web.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\Microsoft.ApplicationInsights.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\Newtonsoft.Json.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\System.Web.Helpers.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\System.Web.Mvc.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\System.Web.Optimization.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\System.Web.Razor.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\System.Web.WebPages.Deployment.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\System.Web.WebPages.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\System.Web.WebPages.Razor.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\WebGrease.dll
+C:\Users\milic\Desktop\Savamala\Savamala\bin\Antlr3.Runtime.pdb
+C:\Users\milic\Desktop\Savamala\Savamala\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\milic\Desktop\Savamala\Savamala\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\milic\Desktop\Savamala\Savamala\bin\Microsoft.AI.Web.xml
+C:\Users\milic\Desktop\Savamala\Savamala\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\milic\Desktop\Savamala\Savamala\bin\Microsoft.ApplicationInsights.xml
+C:\Users\milic\Desktop\Savamala\Savamala\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\milic\Desktop\Savamala\Savamala\bin\Newtonsoft.Json.xml
+C:\Users\milic\Desktop\Savamala\Savamala\bin\System.Web.Helpers.xml
+C:\Users\milic\Desktop\Savamala\Savamala\bin\System.Web.Mvc.xml
+C:\Users\milic\Desktop\Savamala\Savamala\bin\System.Web.Optimization.xml
+C:\Users\milic\Desktop\Savamala\Savamala\bin\System.Web.Razor.xml
+C:\Users\milic\Desktop\Savamala\Savamala\bin\System.Web.WebPages.xml
+C:\Users\milic\Desktop\Savamala\Savamala\bin\System.Web.WebPages.Deployment.xml
+C:\Users\milic\Desktop\Savamala\Savamala\bin\System.Web.WebPages.Razor.xml
+C:\Users\milic\Desktop\Savamala\Savamala\obj\Debug\Savamala.csprojResolveAssemblyReference.cache
+C:\Users\milic\Desktop\Savamala\Savamala\obj\Debug\Savamala.dll
+C:\Users\milic\Desktop\Savamala\Savamala\obj\Debug\Savamala.pdb
+C:\Users\Lesoto\Desktop\Savamala\Savamala\obj\Debug\Savamala.csprojResolveAssemblyReference.cache
+C:\Users\Lesoto\Desktop\Savamala\Savamala\obj\Debug\Savamala.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\obj\Debug\Savamala.pdb
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\ApplicationInsights.config
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\csc.exe
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\csc.exe.config
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\csc.rsp
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\csi.exe
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\csi.exe.config
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\csi.rsp
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\System.AppContext.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\System.Console.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\vbc.exe
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\vbc.exe.config
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\vbc.rsp
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\Savamala.dll.config
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\Savamala.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\Savamala.pdb
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\Antlr3.Runtime.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\Microsoft.AI.Web.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\MySql.Data.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\Newtonsoft.Json.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\System.Web.Helpers.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\System.Web.Mvc.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\System.Web.Optimization.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\System.Web.Razor.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\System.Web.WebPages.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\WebGrease.dll
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\Antlr3.Runtime.pdb
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\Microsoft.AI.Web.xml
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\Newtonsoft.Json.xml
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\System.Web.Helpers.xml
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\System.Web.Mvc.xml
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\System.Web.Optimization.xml
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\System.Web.Razor.xml
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\System.Web.WebPages.xml
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lesoto\Desktop\Savamala\Savamala\bin\System.Web.WebPages.Razor.xml
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\ApplicationInsights.config
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\csc.exe
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\csc.exe.config
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\csc.rsp
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\csi.exe
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\csi.exe.config
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\csi.rsp
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\System.AppContext.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\System.Console.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\System.IO.Compression.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\System.Security.Claims.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\System.ValueTuple.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\vbc.exe
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\vbc.exe.config
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\vbc.rsp
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\VBCSCompiler.exe
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\Savamala.dll.config
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\Savamala.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\Savamala.pdb
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\Antlr3.Runtime.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\Microsoft.AI.Web.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\MySql.Data.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\Newtonsoft.Json.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\System.Web.Helpers.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\System.Web.Mvc.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\System.Web.Optimization.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\System.Web.Razor.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\System.Web.WebPages.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\System.Web.WebPages.Razor.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\WebGrease.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\Antlr3.Runtime.pdb
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\Microsoft.AI.Web.xml
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\Newtonsoft.Json.xml
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\System.Web.Helpers.xml
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\System.Web.Mvc.xml
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\System.Web.Optimization.xml
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\System.Web.Razor.xml
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\System.Web.WebPages.xml
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Marko\Desktop\Savamala\Savamala\bin\System.Web.WebPages.Razor.xml
+C:\Users\Marko\Desktop\Savamala\Savamala\obj\Debug\Savamala.csprojResolveAssemblyReference.cache
+C:\Users\Marko\Desktop\Savamala\Savamala\obj\Debug\Savamala.dll
+C:\Users\Marko\Desktop\Savamala\Savamala\obj\Debug\Savamala.pdb
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\ApplicationInsights.config
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\csc.exe
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\csc.exe.config
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\csc.rsp
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\csi.exe
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\csi.exe.config
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\csi.rsp
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\System.AppContext.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\System.Console.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\System.IO.Compression.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\System.Security.Claims.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\System.ValueTuple.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\vbc.exe
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\vbc.exe.config
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\vbc.rsp
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\VBCSCompiler.exe
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\Savamala.dll.config
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\Savamala.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\Savamala.pdb
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\Antlr3.Runtime.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\Microsoft.AI.Web.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\MySql.Data.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\Newtonsoft.Json.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\System.Web.Helpers.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\System.Web.Mvc.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\System.Web.Optimization.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\System.Web.Razor.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\System.Web.WebPages.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\System.Web.WebPages.Razor.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\WebGrease.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\Antlr3.Runtime.pdb
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\Microsoft.AI.Web.xml
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\Newtonsoft.Json.xml
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\System.Web.Helpers.xml
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\System.Web.Mvc.xml
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\System.Web.Optimization.xml
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\System.Web.Razor.xml
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\System.Web.WebPages.xml
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Buda\Desktop\Savamala\Savamala\bin\System.Web.WebPages.Razor.xml
+C:\Users\Buda\Desktop\Savamala\Savamala\obj\Debug\Savamala.csprojResolveAssemblyReference.cache
+C:\Users\Buda\Desktop\Savamala\Savamala\obj\Debug\Savamala.csproj.CoreCompileInputs.cache
+C:\Users\Buda\Desktop\Savamala\Savamala\obj\Debug\Savamala.dll
+C:\Users\Buda\Desktop\Savamala\Savamala\obj\Debug\Savamala.pdb
